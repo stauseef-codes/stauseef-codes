@@ -25,13 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stauseef-codes&theme=radical" alt="Streak" />
-</p>
-
----
 
 ### 📫 Reach Me At
 
