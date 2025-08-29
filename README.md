@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Tauseef</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=40C9FF&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner;Software+Engineer+@+Lucid+Technology+Services" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=40C9FF&vCenter=true&width=500&lines=Softwate+Developer;MERN+Stack+Learner;Software+Engineer+@+Lucid+Technology+Services" alt="Typing SVG" />
 </p>
 
 ---
