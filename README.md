@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Syed Tauseef</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=40C9FF&vCenter=true&width=500&lines=Softwate+Developer;MERN+Stack+Learner;Software+Engineer+@+Lucid+Technology+Services" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=40C9FF&vCenter=true&width=500&lines=Softwate+Developer;MERN+Stack+Learner;Software+Engineer+@+CIRCET USA" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🧑‍🎓 Recent Engineering Graduate (2024)  
-- 💼 Software Engineer @ Lucid Technology Services (Remote)  
+### 👨‍💻 About Me  
+- 💼 Software Engineer @ CIRCET USA (Remote)  
 - 🌐 Working on building in-house platforms for Circet USA  
 - 💡 Passionate about Frontend Development, React, and UI/UX  
 - 🛠️ Learning DSA, exploring full-stack, and aiming for solid growth  
-- 🌱 Currently improving GitHub skills and portfolio
+
 
 ---
 
@@ -28,7 +26,7 @@
 
 ### 📫 Reach Me At
 
-- 📧 Email: syedtauseef.dev@gmail.com  
+- 📧 Email: syedtauseef7531@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/syed-tauseef)
 
 ---
